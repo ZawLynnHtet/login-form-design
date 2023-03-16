@@ -10,7 +10,7 @@
 }
 
 body {
-    background: #e1e2e3 !important;
+    background: #8B95A3 !important;
 }
 
 .wrapper {
@@ -18,7 +18,7 @@ body {
     min-height: 500px;
     margin: 80px auto;
     padding: 40px 30px 30px 30px;
-    background-color: #cdcfd1;
+    background-color: #9abfe4;
     border-radius: 15px;
     box-shadow: 13px 13px 20px #e2e5e8, -13px -13px 20px #fff;
 }
@@ -67,7 +67,7 @@ body {
 }
 
 .wrapper .form-field .fas {
-    color: #bdbbbb;
+    color: #a8a5a5;
 }
 
 .form-field .fa-eye-slash:hover {
@@ -93,11 +93,11 @@ body {
 .wrapper a {
     text-decoration: none;
     font-size: 0.8rem;
-    color: #03A9F4;
+    color: #046a99;
 }
 
 .wrapper a:hover {
-    color: #039BE5;
+    color: #022b40;
 }
 
 @media(max-width: 380px) {
